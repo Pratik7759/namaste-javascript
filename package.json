@@ -1,0 +1,18 @@
+{
+  "name": "namaste-javascript",
+  "version": "1.0.0",
+  "description": "This is react learning by Pratik Mishra",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pratik7759"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Pratik",
+  "license": "ISC"
+}
